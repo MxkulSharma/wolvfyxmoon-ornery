@@ -95,7 +95,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=wolvfyxmoon-ornery&theme=react-dark&hide_border=true&area=true)
 
-![](./profile-3d-contrib/profile-night-rainbow-animate.svg)
+![3D-Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
   
@@ -134,7 +134,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@ayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@wolvfyxmoonornery/01602852-8537-4db9-8c9a-a7c3665f3495.svg" >
 
 <br>
 <br>
@@ -216,8 +216,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@wolvfyxmoonornery/c87fe908-5bf7-4678-a9dd-6ef194fa1de9.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@wolvfyxmoonornery/2d17a504-b2ce-46ea-8d48-c2e055b08665.svg" />
 </p>
 
 #
@@ -256,28 +256,6 @@ R                        1 repo              ░░░░░░░░░░░�
   </a>     
 </p>
 <br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
-</p>
 
 <br/>
 <br/>

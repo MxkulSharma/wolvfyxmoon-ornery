@@ -3,7 +3,7 @@ name: metrics
 on:
   # Schedule updates (each hour)
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   # Lines below let you run the workflow manually and on each commit
   workflow_dispatch:
   push:
@@ -140,6 +140,6 @@ jobs:
 
       - name: Update README.md
         run: |
-          echo '![Metrics](Metrics.svg)' > README.md
+         echo '![Metrics](./Metrics.svg)' > README.md
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
