@@ -242,9 +242,11 @@ TypeScript               1 repo              ██░░░░░░░░░�
   <img src="Metrics.detailed.svg" width="75%"/>
 </p>
 
-
-<a href="https://app.daily.dev/wolvfyxmoonornery"><img src="https://api.daily.dev/devcards/229c96fbeca04b12bb1a24f131e06ac7.png?r=q2i" width="400" alt="wolvfyxmoon-ornery's Dev Card"/></a>
-
+<div align="center">
+  <a href="https://app.daily.dev/wolvfyxmoonornery">
+     <img src="https://api.daily.dev/devcards/229c96fbeca04b12bb1a24f131e06ac7.png?r=q2i" width="400" alt="wolvfyxmoon-ornery'Dev Card"/>
+  </a>
+</div>
 
 <h1>
   Connect With Me
