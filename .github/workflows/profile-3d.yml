@@ -21,5 +21,4 @@ jobs:
           git config user.email sharmamukul06175@gmail.com
           git add -A .
           git commit -m "generated"
-          git pull origin main --rebase
-          git push origin main
+          git push
